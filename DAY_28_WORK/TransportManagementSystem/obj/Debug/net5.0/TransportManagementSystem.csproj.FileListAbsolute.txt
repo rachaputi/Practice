@@ -1,0 +1,8 @@
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.csprojAssemblyReference.cache
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.AssemblyInfoInputs.cache
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.AssemblyInfo.cs
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.RazorAssemblyInfo.cache
+C:\Users\racha\Desktop\DAY_28_WORK\TransportManagementSystem\obj\Debug\net5.0\TransportManagementSystem.RazorAssemblyInfo.cs
